@@ -1,0 +1,9 @@
+%%% for xls write%%%
+       javaaddpath('jxl.jar');
+     javaaddpath('MXL.jar');
+
+     import mymxl.*;
+     import jxl.*;   
+%%% do not edit %%%
+    
+    xlwrite(current_File_Name,result_table);

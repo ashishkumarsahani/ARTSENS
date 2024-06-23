@@ -1,0 +1,1 @@
+mex -IC:\Progra~2\IVIFou~1\VISA\WinNT\include -IC:\Progra~2\IVIFou~1\IVI\Bin -LC:\Progra~2\IVIFou~1\IVI\Lib\msc -LC:\Progra~2\IVIFou~1\VISA\WinNT\lib\msc -LC:\Progra~2\IVIFou~1\IVI\Lib\msc -lniScope niScope_Link.cpp
